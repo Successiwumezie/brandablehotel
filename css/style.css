@@ -39,5 +39,8 @@ you can use the generic selector below, but it's slower:
 .icon_phone:before {
 	content: "\e090";
 }
+.b-round{
+	border-radius: 7px;
+}
 
 	
